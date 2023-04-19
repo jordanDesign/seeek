@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  background-color: rgb(162, 159, 159);
+}
+h1 {
+  background-color: darkviolet;
+  font-family: sans-serif;
+}
